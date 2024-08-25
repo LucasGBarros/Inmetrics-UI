@@ -1,0 +1,23 @@
+{
+  "name": "inmetricscase",
+  "version": "2.0.0",
+  "description": "Case Inmetrics UI",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "faker": "^5.5.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "step_definitions": "cypress/e2e/shopAdv"
+  }
+}
