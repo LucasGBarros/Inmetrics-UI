@@ -3,7 +3,7 @@
 Olá, me chamo Lucas e este é um projeto de automação UI que foi desenvolvido utilizando a abordagem de BDD (Behavior-Driven Development) com a sintaxe Gherkin,
 utilizando cucumber como ferramenta. Acompanhando com a linguagem de programação Cypress para automação Front-End.
 
-ABbaixo, você encontrará o passo a passo para execução de teste automatizado de UI.
+Abaixo, você encontrará o passo a passo para execução de teste automatizado de UI.
 
 ## Instruções para executar o teste UI Inmetrics:
 
